@@ -1,0 +1,13 @@
+C:\Users\Joseph Morga\Desktop\Compe 361 Assignment 1\Compe 361 Assignment 1\obj\Debug\netcoreapp3.1\Compe 361 Assignment 1.csprojAssemblyReference.cache
+C:\Users\Joseph Morga\Desktop\Compe 361 Assignment 1\Compe 361 Assignment 1\obj\Debug\netcoreapp3.1\Compe 361 Assignment 1.AssemblyInfoInputs.cache
+C:\Users\Joseph Morga\Desktop\Compe 361 Assignment 1\Compe 361 Assignment 1\obj\Debug\netcoreapp3.1\Compe 361 Assignment 1.AssemblyInfo.cs
+C:\Users\Joseph Morga\Desktop\Compe 361 Assignment 1\Compe 361 Assignment 1\obj\Debug\netcoreapp3.1\Compe 361 Assignment 1.csproj.CoreCompileInputs.cache
+C:\Users\Joseph Morga\Desktop\Compe 361 Assignment 1\Compe 361 Assignment 1\bin\Debug\netcoreapp3.1\Compe 361 Assignment 1.exe
+C:\Users\Joseph Morga\Desktop\Compe 361 Assignment 1\Compe 361 Assignment 1\bin\Debug\netcoreapp3.1\Compe 361 Assignment 1.deps.json
+C:\Users\Joseph Morga\Desktop\Compe 361 Assignment 1\Compe 361 Assignment 1\bin\Debug\netcoreapp3.1\Compe 361 Assignment 1.runtimeconfig.json
+C:\Users\Joseph Morga\Desktop\Compe 361 Assignment 1\Compe 361 Assignment 1\bin\Debug\netcoreapp3.1\Compe 361 Assignment 1.runtimeconfig.dev.json
+C:\Users\Joseph Morga\Desktop\Compe 361 Assignment 1\Compe 361 Assignment 1\bin\Debug\netcoreapp3.1\Compe 361 Assignment 1.dll
+C:\Users\Joseph Morga\Desktop\Compe 361 Assignment 1\Compe 361 Assignment 1\bin\Debug\netcoreapp3.1\Compe 361 Assignment 1.pdb
+C:\Users\Joseph Morga\Desktop\Compe 361 Assignment 1\Compe 361 Assignment 1\obj\Debug\netcoreapp3.1\Compe 361 Assignment 1.dll
+C:\Users\Joseph Morga\Desktop\Compe 361 Assignment 1\Compe 361 Assignment 1\obj\Debug\netcoreapp3.1\Compe 361 Assignment 1.pdb
+C:\Users\Joseph Morga\Desktop\Compe 361 Assignment 1\Compe 361 Assignment 1\obj\Debug\netcoreapp3.1\Compe 361 Assignment 1.genruntimeconfig.cache
